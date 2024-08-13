@@ -460,7 +460,7 @@ a:focus, a:hover {
 }
 .hero-area:before {
   content: "";
-  background: #FFCF54;
+  background: #f0d48d;
   position: absolute;
   top: 0;
   right: 0;
@@ -632,7 +632,7 @@ a:focus, a:hover {
 ==================================================================*/
 .call-to-action {
   padding: 100px 0;
-  background-color: #FFCF54;
+  background-color: #f0d48d;
   color: #fff;
 }
 .call-to-action h2 {
