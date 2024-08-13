@@ -460,7 +460,7 @@ a:focus, a:hover {
 }
 .hero-area:before {
   content: "";
-  background: #f6cf6e;
+  background: #FFCF54;
   position: absolute;
   top: 0;
   right: 0;
