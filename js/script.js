@@ -14,3 +14,7 @@
 $('#signButton').click(function(){
   $('#hiddenForm').show();
 });
+
+$('#signRestButton').click(function(){
+  $('#hiddenRestForm').show();
+});
